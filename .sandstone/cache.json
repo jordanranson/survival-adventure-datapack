@@ -1,0 +1,10 @@
+{
+  "/Users/jordanranson/Projects/minecraft/datapacks/survival-adventure/src": {
+    "files": {
+      "pack.mcmeta": "20009df2701cda2467f7f55516a297b1",
+      "data/sa/functions/display_message.mcfunction": "0957d360cfee8a07303db1050d630428",
+      "data/minecraft/tags/functions/load.json": "984d7125662e6aecc1d80b0503da6397"
+    },
+    "resultFolder": "/Users/jordanranson/Library/Application Support/minecraft/saves/Survival Adventure Test/datapacks/Survival Adventure"
+  }
+}
